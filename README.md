@@ -1,3 +1,6 @@
-# Geap Email Template
+# Simple Responsive Email Template
+## Mobile View
+<img src="./prints/mobile.png" width="50%">
 
-![description](/prints/transational_template_print.png)
+## Web View
+<img src="./prints/web.png">
